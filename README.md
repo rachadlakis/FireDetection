@@ -1,5 +1,3 @@
-# FireDetection
-Image Classification Neural Network for fire detection using Keras and TensorFlow.
 # Fire Detection Model
 
 This repository contains the code and results for creating a Fire Detection model using binary image classification. The model is designed to predict whether an image contains fire or not. The process involves searching for the "best" model using Keras Tuner, considering both large and small model sizes.
